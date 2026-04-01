@@ -1,5 +1,5 @@
 /**
- * 01_primitive_types.cpp
+ * 00_types.cpp
  * Tamaños garantizados vs tamaños dependientes de plataforma.
  * En sistemas embebidos importa muchp (<cstdint> es obligatorio)
  */
